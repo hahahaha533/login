@@ -31,7 +31,7 @@
 .content .login-wrapper .left-img{
     border-radius: 40px;
     flex: 1;
-    background: url(../jpg/bg.png) no-repeat;
+    background: url(bg.png) no-repeat;
     background-size: cover;
     position: relative;
 }
